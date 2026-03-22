@@ -1,0 +1,14 @@
+{
+  "task_type": "response_comparison",
+  "prompt": "What are the benefits of exercise?",
+  "responses": {
+    "A": "Exercise improves health and helps with weight loss.",
+    "B": "Exercise improves cardiovascular health, boosts mental well-being, increases energy levels, and helps maintain a healthy weight."
+  },
+  "comparison": {
+    "better_response": "B",
+    "reasoning": "Response B is more detailed, covers multiple benefits, and provides a more complete answer.",
+    "weakness_A": ["Too brief", "Lacks detail"],
+    "weakness_B": ["Could include examples"]
+  }
+}
