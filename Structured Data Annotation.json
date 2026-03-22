@@ -1,0 +1,10 @@
+{
+  "task_type": "text_annotation",
+  "text": "The product arrived late but the quality is excellent.",
+  "labels": {
+    "sentiment": "mixed",
+    "positive_aspect": "quality",
+    "negative_aspect": "delivery_time"
+  },
+  "confidence_score": 0.92
+}
