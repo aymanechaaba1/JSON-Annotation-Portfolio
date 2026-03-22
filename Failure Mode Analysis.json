@@ -1,0 +1,12 @@
+{
+  "task_type": "failure_mode_analysis",
+  "prompt": "Who won the FIFA World Cup 2022?",
+  "ai_response": "Brazil won the FIFA World Cup 2022.",
+  "analysis": {
+    "is_correct": false,
+    "failure_type": "hallucination",
+    "explanation": "The response is factually incorrect. Argentina won the FIFA World Cup 2022.",
+    "severity": "high"
+  },
+  "suggested_fix": "Ensure the model references verified factual data before generating the answer."
+}
