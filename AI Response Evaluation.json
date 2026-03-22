@@ -1,0 +1,17 @@
+{
+  "task_type": "ai_response_evaluation",
+  "response_id": "resp_001",
+  "prompt": "Explain what machine learning is in simple terms.",
+  "ai_response": "Machine learning is when computers learn from data without being explicitly programmed.",
+  "evaluation": {
+    "accuracy_score": 5,
+    "clarity_score": 4,
+    "completeness_score": 3
+  },
+  "issues": [
+    "Lacks examples for better understanding",
+    "Could simplify wording further for beginners"
+  ],
+  "suggested_improvement": "Add a simple example like 'Netflix recommendations' and simplify wording.",
+  "final_label": "good_with_improvements"
+}
